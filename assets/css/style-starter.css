@@ -9580,7 +9580,7 @@ a.text-dark:hover, a.text-dark:focus {
   --nav-color: #fff;
   --bg-light: #131617;
   --dropdown-color: #191c1d;
-  --iframe-filter: grayscale(100%);
+  --iframe-filter: grayscale(75%);
   --widget-bg: #131617; }
 
 .noscroll {
